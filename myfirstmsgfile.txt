@@ -13,4 +13,8 @@ ok so go ahead and keep it up.
 I am moving this text file to the another branch for learning.
 
 
+<4. updated the 4th point for the mySecondRepo for testing>
+
+5. 
+This is the final comment for the "myfirstrepo" project.
 
