@@ -9,3 +9,7 @@ I hope you are going to enjoy the things here @GitHub.
 3.
 ok so go ahead and keep it up.
 
+<4. updated the 4th point for the mySecondRepo for testing>
+
+5. 
+This is the final comment for the "myfirstrepo" project.
